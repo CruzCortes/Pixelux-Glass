@@ -4,7 +4,7 @@
 
 A SwiftUI implementation of Apple's liquid glass visual effect, specifically designed for ARKit applications. This library brings the ethereal, refractive glass aesthetic to AR experiences with real-time camera feed processing.
 
-![Demo Video](res/videos/demo.mp4)
+[![PixeluxGlass Demo](https://img.youtube.com/vi/NuPVjpL2Lf4/maxresdefault.jpg)](https://youtu.be/NuPVjpL2Lf4)
 
 ## See It In Action
 
